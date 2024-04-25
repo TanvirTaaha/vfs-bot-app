@@ -1,0 +1,16 @@
+FORM:
+  contact_no_countrycode: '88'
+  contact_number: 01712345678
+  current_nationality: India
+  email: abc12@abc.com
+  first_name: John
+  last_name: Doe
+  passport_number: A0123456789
+VFS:
+  vfs_email: arshiainternational172@gmail.com
+  vfs_login_url: https://visa.vfsglobal.com/ind/en/fin/login
+  vfs_password: Rakib3536@
+VISA:
+  category: VISA
+  sub_category: Tourist
+  visa_centre: Application Centre, New Delhi
